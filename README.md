@@ -25,7 +25,7 @@
 - [Tanaka Guitar Website](https://github.com/JonathanwII/Tanaka-Guitar-Website)
 - [Astronomy Website](https://github.com/JonathanwII/Astronomy-Website)
 - [Restoran Sederhana Website Improvement Idea Prototype](https://www.figma.com/proto/ZYbTMPfXyrOqaObno5Rfn0/Prototype-Restoran-Sederhana?type=design&node-id=5-2&t=0pi3WhhiSj8IeDEF-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design)
-- 
+- [AI Object Detection](https://github.com/JonathanwII/AI-Object-Detection)
 - [Car-E Application](https://github.com/JonathanwII/car-e)
 \
 \
