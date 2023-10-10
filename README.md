@@ -21,7 +21,16 @@
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+## 💻 Projects
+- [Tanaka Guitar Website](https://github.com/JonathanwII/Tanaka-Guitar-Website)
+- [Astronomy Website](https://github.com/JonathanwII/Astronomy-Website)
+- [Restoran Sederhana Website Improvement Idea Prototype](https://www.figma.com/proto/ZYbTMPfXyrOqaObno5Rfn0/Prototype-Restoran-Sederhana?type=design&node-id=5-2&t=0pi3WhhiSj8IeDEF-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A2&mode=design)
+- 
+- [Car-E Application](https://github.com/JonathanwII/car-e)
+\
+\
+\
+\
 ![github stat](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanwII&theme=blue-green)
 
 <!--
