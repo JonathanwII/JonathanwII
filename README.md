@@ -5,7 +5,7 @@
 ## 🦰 About Me
 - 🚀 I'm an aspiring Computer Science Student
 - 🔭 I’m currently working on a Website Project 
-- 🌱 I’m currently learning Web Programming and Machine Learning
+- 🌱 I’m currently learning Web Programming and Deep Learning
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanwiii/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-wijaya-483a02211/)
